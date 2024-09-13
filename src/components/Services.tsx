@@ -1,6 +1,6 @@
 import { Shield } from "lucide-react";
 import broom from "../assets/Broom.svg";
-import whatsapp from "../assets/whatsappLogo.svg";
+import whatsapp from "../assets/WhatsappLogo.svg";
 
 export function Services() {
   return (
