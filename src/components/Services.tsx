@@ -41,7 +41,7 @@ export function Services() {
       <a
         href="https://wa.me/+5511965397463"
         target="_blank"
-        className="absolute bottom-10 right-10"
+        className="fixed bottom-10 right-10"
       >
         <img
           src={whatsapp}
